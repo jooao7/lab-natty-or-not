@@ -1,12 +1,9 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+## 🚀 Apresentação
 
-> Woooow! Look at this 👀
+Esse projeto foi desenvolvido durante a formação "Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3" da DIO, logo abaixo será descrito sobre os resultados.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
 ### Objetivos
 
@@ -17,28 +14,33 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Usando inteligência artificial para gerar e aprimorar imagens através de prompts.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Este projeto tem como objetivo pesquisar o potencial das IAs Generativas na criação de diferentes tipos de atividades. Utiliza-se modelos de IA para gerar imagens abstratas que sejam visualmente interessantes e esteticamente agradáveis.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- Microsoft Copilot Designer parar gerar imagens
+- Chat GPT 4.0 para corrigir o Prompt e deixar o mais eficaz e próximo possivel da imagem solicitada.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+- Geração de Imagens: Utilizando Microsoft Copilot para gerar novas imagens.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+- Foram geradas centenas de imagens abstratas usando o modelo de IA.
+- Selecionamos as 2 melhores imagens e as exibimos em uma galeria online para apreciação do público.
+- Recebemos feedback positivo sobre a originalidade e beleza das imagens geradas pela IA.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
+Criar arte com IA apresentou alguns desafios interessantes. Embora a IA tenha demonstrado habilidade para gerar imagens visualmente interessantes, ainda é necessário um olhar humano para selecionar e refinar as melhores criações.
+
+
+### Exemplos e Insights
 
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
